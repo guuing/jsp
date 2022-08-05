@@ -6,7 +6,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-  <h1>m.jsp입니다.</h1>
-  <h2>local-15ㄴ</h2>
+
+<h1>m.jsp입니다.</h1>
+<h2>local-3</h2>
 </body>
 </html>
